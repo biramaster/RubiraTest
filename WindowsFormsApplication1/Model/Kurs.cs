@@ -8,5 +8,6 @@ namespace WindowsFormsApplication1.Model
 {
     class Kurs
     {
+        int id;
     }
 }
